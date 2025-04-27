@@ -13,6 +13,8 @@ Made with 💜 in Go (first project btw).
 
 ## 📸 Demo
 ```bash
+
+🧠 Welcome to your Sadness Report 🧠
   ______                   __                                                 ______                       __                                         
  /      \                 |  \                                               /      \                     |  \                                        
 |  $$$$$$\  ______    ____| $$ _______    ______    _______   _______       |  $$$$$$\ _______    ______  | $$ __    __  ________   ______    ______  
@@ -28,7 +30,7 @@ Made with 💜 in Go (first project btw).
 Tell me about your day:
 Today my cat left me for the neighbor and it rained on my pizza delivery.
 
-Your Copium Dose is: 60%
+Your Sadness Dose Today is: 60%
 Moderate copium intake... Stay strong 🫡
 
-Thanks for trusting Daily Copium Report™. Stay strong, soldier! 🫡
+Thanks for trusting Daily Sadness Report™. Stay strong, my glorious king! 🫡
