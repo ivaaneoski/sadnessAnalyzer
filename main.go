@@ -48,12 +48,12 @@ func main(){
 
 	comment := getCopiumComment(copiumData)// retrives the if-else statements from copium_comments.go
 
-	fmt.Println("\n🧾 Daily Copium Report:")
-	fmt.Printf("📈\033[36m Copium Dose: %d%%\n", copiumData)
+	fmt.Println("\n🧾 Daily Sadness Report:")
+	fmt.Printf("📈\033[36m Sadness Dose Today : %d%%\n", copiumData)
 	fmt.Printf("\033[35m%s\033[0m\n",comment)
 
 
-	fmt.Println("Thanks for trusting Daily Copium Report™. Stay strong, soldier! 🫡")
+	fmt.Println("Thanks for trusting Daily Sadness Report™. Stay strong, my glorious king! 🫡")
 }
 
 //Funtion to analyze the sadness levels 
