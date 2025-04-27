@@ -6,7 +6,7 @@
 ## ✨ What is this?
 
 Ever had a rough day and needed someone to **analyze your sadness**?  
-Daily Copium Report™ reads your day in a paragraph, calculates your **sadness dose**,  
+Daily Sadness Report™ reads your day in a paragraph, calculates your **sadness dose**,  
 and gives you a **motivational (or brutally honest) comment** based on your sadness levels.  
 
 Made with 💜 in Go (first project btw).
