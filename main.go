@@ -52,8 +52,11 @@ func main(){
 	fmt.Printf("📈\033[36m Sadness Dose Today : %d%%\n", copiumData)
 	fmt.Printf("\033[35m%s\033[0m\n",comment)
 
-
 	fmt.Println("Thanks for trusting Daily Sadness Report™. Stay strong, my glorious king! 🫡")
+
+	// End with a wait (prevents the terminal from closing)
+    fmt.Println("\nPress Enter to exit...")
+	fmt.Scanln()
 }
 
 //Funtion to analyze the sadness levels 
