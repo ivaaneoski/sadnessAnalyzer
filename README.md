@@ -1,4 +1,4 @@
-# sadnessAnalyzer
+# MoodMetrics
 *A tiny Go app that tells you how much emotional copium you inhaled today.*
 
 ---
